@@ -1,5 +1,5 @@
 package com.company;
-
+//dz2.5
 public class Main {
     private static final int SIZE = 10000000;
     private static final int HALF_SIZE = SIZE / 2;
